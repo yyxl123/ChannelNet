@@ -1,0 +1,7 @@
+ttictoc
+pandas
+keras
+scipy
+numpy
+matplotlib
+tensorflow-gpu
