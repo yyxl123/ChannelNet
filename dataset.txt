@@ -1,5 +1,8 @@
-https://drive.google.com/file/d/1j0BcBoVKCDInryqfCRPjINAUrFrI_rxB/view
+links: Perfect channels - VehA model (without noise);
+https://drive.google.com/file/d/1H5GiEWITfM00R4BS2uC3SiBLR0EZKX8m/view?usp=sharing
 
-https://drive.google.com/file/d/1mwnfXalDUTebreMZqUNHRGAENAeJL1Nn/view
+Noisy channels (SNR = 12dB); 
+https://drive.google.com/file/d/1mwnfXalDUTebreMZqUNHRGAENAeJL1Nn/view?usp=sharing
 
-https://drive.google.com/file/d/1H5GiEWITfM00R4BS2uC3SiBLR0EZKX8m/view
+Noisy channels (SNR = 22dB);
+https://drive.google.com/file/d/1j0BcBoVKCDInryqfCRPjINAUrFrI_rxB/view?usp=sharing
